@@ -14,3 +14,4 @@ java -jar .\cg-brutaltester-1.0.0-SNAPSHOT.jar -r "java -jar -Dleague.level=4 Le
 
 Enjoy!
 
+The _info and _trace variants of the referee allow to see from console what is happening during the game etc.
